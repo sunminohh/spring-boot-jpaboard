@@ -1,1 +1,1 @@
-JPA, MariaDB, Thymeleaf practice
+JPA, MariaDB, Thymeleaf study
