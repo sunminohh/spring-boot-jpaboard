@@ -1,1 +1,1 @@
-practice
+JPA, MariaDB, Thymeleaf practice
